@@ -4,7 +4,7 @@
 # Version   1.0
 #
 # --------------------------------------------------------------------------------------------------
-AWSTemplateFormatVersion:
+AWSTemplateFormatVersion: 2010-09-09
 Description: "Network: VPC, Subnets + RouteTables, Internet + NAT Gateways"
 
 Metadata:
